@@ -1,0 +1,9 @@
+{
+  "name": "sshack",
+  "version": "0.0.0",
+  "description": "SSHack",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
